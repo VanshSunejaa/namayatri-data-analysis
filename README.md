@@ -123,10 +123,6 @@ This project demonstrates **end-to-end data analysis**, from raw data cleaning i
 ---
 
 ## 🤝 Let's Connect!  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-🔗 [GitHub](https://github.com/your-username)
+🔗 [LinkedIn](https://www.linkedin.com/in/vansh-suneja-32b0042a9/)  
+🔗 [GitHub](https://github.com/vanshsunejaa)
 
----
-
-Let me know if you need help designing a description for the **selectors**, or if you want a specific section highlighting **business advantages** (like revenue boost, conversion improvement, etc.).  
-If you upload the full dashboard image, I can fine-tune the README further!
